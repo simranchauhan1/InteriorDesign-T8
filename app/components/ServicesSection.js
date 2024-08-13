@@ -9,7 +9,7 @@ const ServicesSection = () => {
 
       <div className="flex flex-col lg:flex-row gap-8 items-center mt-20 justify-between px-28">
         <div className="flex flex-col lg:flex-row rounded-lg bg-blue-100 items-center justify-center bg-cover bg-center p-5 flex-grow">
-          <img className="h-14 w-14" src="/images/power-icon.png" alt="Power Icon" />
+          <Image className="h-14 w-14" src="/images/power-icon.png" alt="Power Icon" />
           <div className="text ml-4">
             <h3 className="text-[1.2rem] text-blue-900 font-bold">Free online consultation</h3>
             <p className="text-[0.9rem] mt-4">Talk to our designers online and start planning your interiors from the comfort of your home.</p>
@@ -17,7 +17,7 @@ const ServicesSection = () => {
         </div>
 
         <div className="flex flex-col lg:flex-row rounded-lg bg-blue-100 items-center justify-center bg-cover bg-center p-5 flex-grow">
-          <img className="h-14 w-14" src="/images/rocket-icon.png" alt="Rocket Icon" />
+          <Image className="h-14 w-14" src="/images/rocket-icon.png" alt="Rocket Icon" />
           <div className="text ml-4">
             <h3 className="text-[1.2rem] text-blue-900 font-bold">Pay just 5% to book</h3>
             <p className="text-[0.9rem] mt-4">We’ve dropped our booking fees. Now book your projects by paying just 5% instead of 10%.</p>
@@ -25,7 +25,7 @@ const ServicesSection = () => {
         </div>
 
         <div className="flex flex-col lg:flex-row rounded-lg bg-blue-100 items-center justify-center bg-cover bg-center p-5 flex-grow">
-          <img className="h-14 w-14" src="/images/power-icon (1).png" alt="Power Icon" />
+          <Image className="h-14 w-14" src="/images/power-icon (1).png" alt="Power Icon" />
           <div className="text ml-4">
             <h3 className="text-[1.2rem] text-blue-900 font-bold">Hassle-free cancellation</h3>
             <p className="text-[0.9rem] mt-4">Get 100% refund on cancellations done within 15 days of booking. Valid till 30th June, 2020.</p>
