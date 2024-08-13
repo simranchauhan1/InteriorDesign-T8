@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="flex flex-col lg:flex-row gap-9 w-full justify-between">
                 <div className="flex flex-col">
                     <h3 className="font-bold text-l flex-wrap">INTERIOR DESIGN</h3>
-                    <p className="mb-3 text-[0.8rem]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                    <p className="mb-3 text-[0.8rem]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s.</p>
                     <div className="flex flex-row gap-2 mt-6">
                         <Link href="#">
                             <Image src="/images/fb.webp" alt="Facebook" className="h-8 w-8" width={32} height={32} />
